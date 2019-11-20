@@ -1,0 +1,9 @@
+.*
+/node_modules
+/src
+/static
+/test
+/build
+/config
+package-lock.json
+webpack.config.js
